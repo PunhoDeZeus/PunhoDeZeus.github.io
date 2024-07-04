@@ -1,0 +1,18 @@
+body{
+    background-color: black;
+    color: white;
+}
+div{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+}
+img{
+    width: 500px;
+    margin: 10px;
+}
