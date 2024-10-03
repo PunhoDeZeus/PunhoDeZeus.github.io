@@ -16,3 +16,12 @@ img{
     width: 500px;
     margin: 10px;
 }
+.oi{
+    
+    background-color: #103;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    border-bottom: 3px solid #000;
+    border-radius: 10px 10px 0 0;
+    padding: 10px 0;}
