@@ -1,0 +1,42 @@
+body{
+    background-color: black;
+    color: white;
+    margin:0;
+}
+.tchau{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+}
+
+.oi{
+    
+    background-color: rgb(34, 13, 13);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 20px;
+}
+main{
+    border: 3px;
+    margin: 10px
+
+}
+.imagens{
+    height: 200px;
+}
+.oi > a {
+    background-color: black;
+    height: 75px;
+    width: 75px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: red;
+}
